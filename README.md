@@ -1,1 +1,1 @@
-"# clarivoyant" 
+# clarivoyant
